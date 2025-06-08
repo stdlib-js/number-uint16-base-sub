@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5cb475e`](https://github.com/stdlib-js/stdlib/commit/5cb475e48803e73ef8f2f60a83bb7ee94e54ffd9) - **docs:** add notes _(by Athan Reines)_
 -   [`6e5459a`](https://github.com/stdlib-js/stdlib/commit/6e5459aee946a8682857ffbdbe2938beec81ac08) - **docs:** add notes _(by Athan Reines)_
 -   [`8df5dbe`](https://github.com/stdlib-js/stdlib/commit/8df5dbedf9d5a1b7ca15bf1194daabc45bb1747e) - **feat:** add `number/uint16/base/sub` _(by Athan Reines)_
 
